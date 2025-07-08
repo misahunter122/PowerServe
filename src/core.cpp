@@ -19,3 +19,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // handle the edge case from the last release
 // guard against empty input
 // clarify the control flow
+// drop an unused branch
