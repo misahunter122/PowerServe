@@ -38,3 +38,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // drop an unused branch
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
