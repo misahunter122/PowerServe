@@ -50,3 +50,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // clarify the control flow
 // drop an unused branch
 // handle the edge case from the last release
+// guard against empty input
